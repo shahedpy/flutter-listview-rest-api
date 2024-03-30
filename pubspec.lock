@@ -92,7 +92,7 @@ packages:
     source: hosted
     version: "4.0.2"
   leak_tracker:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: leak_tracker
       sha256: "78eb209deea09858f5269f5a5b02be4049535f568c07b275096836f01ea323fa"
