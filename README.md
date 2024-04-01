@@ -16,3 +16,6 @@ https://jsonplaceholder.typicode.com/
 ## Widgets
 - CircularProgressIndicator
 - ListView.builder
+
+## Practice API
+- [PokeAPI](https://pokeapi.co/)
